@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi there, I'm JFK507 👋
 
-<!--
-**JFK507/JFK507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- **Profession:** Student of Software Engineering
+- **Specialization:** Web Development
+- **Passionate about:** Building robust and user-friendly web applications
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Web Development (Front-end & Back-end)
+- Continuous learning and adapting to new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 Hobbies
+- Playing music during my free time
+
+## 📈 My GitHub Stats
+![JFK507's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFK507&show_icons=true&theme=default)
+
+---
+
+_Always eager to learn, build, and make an impact through code!_
